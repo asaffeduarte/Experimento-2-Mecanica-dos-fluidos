@@ -1,4 +1,4 @@
-# Experimento-1 Mecânica dos Fluidos
+# Experimento-2 Mecânica dos Fluidos
 
 ## Objetivo
 Códigos destinados para o plot de gráficos acerca do experimento "Medição de velocidade em escoamentos de fluidos 
