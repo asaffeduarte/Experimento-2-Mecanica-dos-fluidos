@@ -30,6 +30,6 @@ plt.legend()
 plt.grid(True)
 
 # Adicionar a área sob a curva como texto no gráfico, movendo mais para a esquerda
-plt.text(0.0001, 0.2, f'Área sob a curva: {area:.4f}', fontsize=12, bbox=dict(facecolor='white', alpha=0.5))
+plt.text(0.0001, 0.2, f'Área sob a curva: {area:.5f}', fontsize=12, bbox=dict(facecolor='white', alpha=0.5))
 
 plt.show()
